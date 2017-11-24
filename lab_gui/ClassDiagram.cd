@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gui" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAEAEAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>lab_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller&lt;List&gt;" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAoEAYJCAAAAAAEgEQAAUAAAQBAAAAAAAIAAAAA=</HashCode>
+      <FileName>controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cos&lt;element_type, List&gt;" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAkAAgAAAAAAAAAAAAAAQAAAAEAQAAAAAAAgAAAAAA=</HashCode>
+      <FileName>cos.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File_Repository&lt;element_type, List&gt;" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACABQAAAAAAAAAAAgQAAAAAAAEAAAAAAAAQAEAAA=</HashCode>
+      <FileName>file_repository.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dlinked_list&lt;element_type&gt;" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAEAAAAAIIEIAAASAAEAAgAAgAAgAAAAAAA=</HashCode>
+      <FileName>linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Product" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAADAAAgAAACAAAAAAAFRRAAAAAFAAAAAAAACIAAAAA=</HashCode>
+      <FileName>product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repository&lt;element_type, List&gt;" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAAAAAAAAAAAAgAAAAAAAAAAAACAACARAEAAA=</HashCode>
+      <FileName>repository.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Undo_Redo&lt;element_type, List&gt;" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAgAAAAAAQgAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>undo_redo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Undo_Redo_Add&lt;element_type, List&gt;" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAACIAAA=</HashCode>
+      <FileName>undo_redo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Undo_Redo_Update&lt;element_type, List&gt;" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAADAAAAAAAAAAAAAAAAACBAAA=</HashCode>
+      <FileName>undo_redo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Undo_Redo_Delete&lt;element_type, List&gt;" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAgA=</HashCode>
+      <FileName>undo_redo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Validate_Exception" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>validators.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Product_Validator" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>validators.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repository_Exception" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQACAAAAAA=</HashCode>
+      <FileName>validators.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Undo_Redo_Exception" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQACAAAAAA=</HashCode>
+      <FileName>validators.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="guiClass">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAABCEAQAAAAAAAAIAAAAQAIAAAgAAUACAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_lab_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::lab_guiClass">
+    <Position X="3.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_lab_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="qt_meta_stringdata_gui_t" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_lab_gui.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::initializer" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>GeneratedFiles\qrc_lab_gui.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

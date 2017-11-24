@@ -1,0 +1,7 @@
+﻿  linked_list.cpp
+c:\users\george\documents\visual studio 2015\projects\lab_gui\lab_gui\linked_list.h(108): warning C4715: 'dlinked_list<int>::at': not all control paths return a value
+c:\users\george\documents\visual studio 2015\projects\lab_gui\lab_gui\linked_list.h(153): warning C4172: returning address of local variable or temporary
+c:\users\george\documents\visual studio 2015\projects\lab_gui\lab_gui\linked_list.h(153): warning C4172: returning address of local variable or temporary
+c:\users\george\documents\visual studio 2015\projects\lab_gui\lab_gui\linked_list.h(108): warning C4715: 'dlinked_list<Product>::at': not all control paths return a value
+  lab_gui.vcxproj -> C:\Users\George\Documents\Visual Studio 2015\Projects\lab_gui\x64\Debug\lab_gui.exe
+  lab_gui.vcxproj -> C:\Users\George\Documents\Visual Studio 2015\Projects\lab_gui\x64\Debug\lab_gui.pdb (Full PDB)
